@@ -1,4 +1,4 @@
-# playwright-auth-example
+# playwright-auth-example (Global Setup)
 
 Playwright provides a way to reuse the signed-in state in the tests. That way you can log in only once and then skip the log in step for all of the tests.
 
